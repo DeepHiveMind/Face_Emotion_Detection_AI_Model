@@ -141,5 +141,7 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
 ​	We can clearly see the wonders of AI in facial recognition. The amazing python library of 			  face_recognition, pretrained  deep learning models and open-cv  have already gained so much performance and have made our life easier. There are lots of other materials that are helpful and bring into picture different approaches used in achieving the same goal.
 
+You can see the full code on the following github link:
 
+https://github.com/priya-dwivedi/face_and_emotion_detection
 
